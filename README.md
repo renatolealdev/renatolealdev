@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @renato-leal
-- 👀 I’m interested in  agregar  conhecimento na  programação !
-- 🌱 I’m currently learning  Flutter  e Dart    
-- 💞️ I’m looking to collaborate on  desenvolvimento  em  Flutter e Dart
-- 📫 How to reach me  marcondesleal@icloud.com
+- 👋 Hi, I’m Renato Leal ;
+- I'm a full stack developer updating;
+- 👀 I'm interested in adding knowledge in software development and IOT;
+- 🌱 currently studying HTML, CSS, JAVASCRIPT and Flutter/Dart;
+- 💞️ I seek to collaborate and learn more about the technologies listed above;
+- 📫 you can talk to me through my email: renatoleal.developer@gmail.com or LinkedIn: https://www.linkedin.com/in/renatomarcondesleal
   
 <!--- 
 renato-leal/renato-leal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
