@@ -1,6 +1,5 @@
 <div align="center">
   <h1> Olá, eu sou o Renato Leal, seja bem vindo(a) ao meu GitHub! </h1>
-  <h3> Sou desenvolvedor Mobile/Web Jr. Atualmente estou focado no desenvolvimento com Flutter & Dart. </h3>
   <h6> Aqui em meu GitHub você encontrará repositórios públicos sobre cursos realizados ou em andamento e projetos pessoais.</h6>
 </div>
 
